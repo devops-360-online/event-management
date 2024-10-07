@@ -1,0 +1,44 @@
+# Gradle build folder
+/build/
+.gradle/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+## IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+## Eclipse
+.classpath
+.project
+.settings/
+
+## VS Code
+.vscode/
+
+# Generated files
+generated/
+
+# JAR and WAR files
+*.jar
+*.war
+
+# Dependencies (if you have a 'libs' folder)
+libs/
+
+# Test reports
+/test-results/
